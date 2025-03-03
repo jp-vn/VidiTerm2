@@ -1,4 +1,4 @@
-# ONLY ~~WORKS~~ ON iTERM2 (barely, need to fix for short vids)
+# ONLY ~~WORKS~~ ON iTERM2 (still need to fix for shorter vids)
 
 ![image](https://github.com/user-attachments/assets/cca6b299-8705-4db8-adcd-6409df244a10)
 ![image](https://github.com/user-attachments/assets/bf933911-d9d3-412f-b671-461aa4a7ce0d)
