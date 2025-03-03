@@ -36,7 +36,7 @@ yeah i don't know what i was thinking
 
     1. Clone this repository:
        ```
-       git clone https://github.com/jp-vn/VidiTerm.git
+       git clone https://github.com/jp-vn/VidiTerm2.git
        cd VidiTerm-main
        ```
     
