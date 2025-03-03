@@ -1,4 +1,4 @@
-# ONLY ~~WORKS~~ ON iTERM2 (still need to fix for shorter vids)
+# ONLY ~~WORKS~~ ON iTERM2
 
 ![image](https://github.com/user-attachments/assets/cca6b299-8705-4db8-adcd-6409df244a10)
 ![image](https://github.com/user-attachments/assets/bf933911-d9d3-412f-b671-461aa4a7ce0d)
@@ -10,11 +10,9 @@ https://github.com/user-attachments/assets/67d06439-8b45-4395-82a3-1f585aa7c23a
 
 [![YouTube](http://i.ytimg.com/vi/AANogTvjWbY/hqdefault.jpg)](https://www.youtube.com/watch?v=AANogTvjWbY)
 
-## horribly unoptimized, randomly crashes, needs fixing, WIP
+horribly unoptimized, randomly crashes, needs fixing, WIP
 
-## DOES NOT WORK PROPERLY ON RETINA SCREENS
-
-## other than that when it works it works
+## DOES NOT WORK PROPERLY ON RETINA SCREENS, or shorter videos, other than that when it works it works
 
 MAKE SURE TO ADD -uhr flag in the end, otherwise it plays like mpv tct video output BUT WORSE
 
