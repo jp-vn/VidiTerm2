@@ -10,11 +10,11 @@ https://github.com/user-attachments/assets/67d06439-8b45-4395-82a3-1f585aa7c23a
 
 [![YouTube](http://i.ytimg.com/vi/AANogTvjWbY/hqdefault.jpg)](https://www.youtube.com/watch?v=AANogTvjWbY)
 
-###### horribly unoptimized, randomly crashes, needs fixing, WIP
+## horribly unoptimized, randomly crashes, needs fixing, WIP
 
-###### DOES NOT WORK PROPERLY ON RETINA SCREENS
+## DOES NOT WORK PROPERLY ON RETINA SCREENS
 
-###### other than that when it works it works
+## other than that when it works it works
 
 MAKE SURE TO ADD -uhr flag in the end, otherwise it plays like mpv tct video output BUT WORSE
 
