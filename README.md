@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/67d06439-8b45-4395-82a3-1f585aa7c23a
 
 ###### horribly unoptimized, randomly crashes, needs fixing, WIP
 
-###### bad bad bad bad
+###### DOES NOT WORK PROPERLY ON RETINA SCREENS
 
 ###### other than that when it works it works
 
