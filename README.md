@@ -16,12 +16,19 @@ horribly unoptimized, randomly crashes, needs fixing, WIP
 
 MAKE SURE TO ADD -uhr flag in the end, otherwise it plays like mpv tct video output BUT WORSE
 
-very dumb idea, but basically pulls jpegs frame by frame and outputs them, so the quality is high at the expense of your cpu
+## Idea
 
-there is no practical use for this at all
+lol was playing around with mpv -vo=tct and thought to myself "hmm what IS the 'highest quality' video player that plays/renders the videp directly in the terminal?" dumb idea ik but i needed to scratch that itch
 
-yeah i don't know what i was thinking
+Requirements:
+    - Definition of video: has to reflect closely to what the source looks like (colors, framerate) and also has to be synched to audio like source
+    - Video HAS TO play inside the terminal (in this case iTerm2), user should not have to leave the CLI
 
+Need improvement:
+    - rewrite in c or c++ for more efficient opencv
+    - get it working with short videos
+    - get it working with retina screens
+    
 
 #### dependencies
     - Python 3.6+
