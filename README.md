@@ -14,7 +14,7 @@ MAKE SURE TO ADD -uhr flag in the end, otherwise it plays like mpv tct video out
 
 ## Idea
 
-lol was playing around with mpv -vo=tct and thought to myself "hmm what IS the 'highest quality' video player that plays/renders the video directly in the terminal?" dumb idea ik but i needed to scratch that itch
+lol was playing around with mpv --vo=tct and thought to myself "hmm what IS the 'highest quality' video player that plays/renders the video directly in the terminal?" dumb idea ik but i needed to scratch that itch
 
 Requirements:
     - Definition of video: has to reflect closely to what the source looks like (colors, framerate) and also has to be synched to audio like source
