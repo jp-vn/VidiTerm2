@@ -10,15 +10,11 @@ https://github.com/user-attachments/assets/67d06439-8b45-4395-82a3-1f585aa7c23a
 
 [![YouTube](http://i.ytimg.com/vi/AANogTvjWbY/hqdefault.jpg)](https://www.youtube.com/watch?v=AANogTvjWbY)
 
-horribly unoptimized, randomly crashes, needs fixing, WIP
-
-## DOES NOT WORK PROPERLY ON RETINA SCREENS, or shorter videos, other than that when it works it works
-
 MAKE SURE TO ADD -uhr flag in the end, otherwise it plays like mpv tct video output BUT WORSE
 
 ## Idea
 
-lol was playing around with mpv -vo=tct and thought to myself "hmm what IS the 'highest quality' video player that plays/renders the videp directly in the terminal?" dumb idea ik but i needed to scratch that itch
+lol was playing around with mpv -vo=tct and thought to myself "hmm what IS the 'highest quality' video player that plays/renders the video directly in the terminal?" dumb idea ik but i needed to scratch that itch
 
 Requirements:
     - Definition of video: has to reflect closely to what the source looks like (colors, framerate) and also has to be synched to audio like source
@@ -27,7 +23,7 @@ Requirements:
 Need improvement:
     - rewrite in c or c++ for more efficient opencv
     - get it working with short videos
-    - get it working with retina screens
+    - DOES NOT WORK PROPERLY ON RETINA SCREENS, or shorter videos
     
 
 #### dependencies
