@@ -21,9 +21,12 @@ Requirements:
     - Video HAS TO play inside the terminal (in this case iTerm2), user should not have to leave the CLI
 
 Need improvement:
-    - rewrite in c or c++ for more efficient opencv
-    - get it working with short videos
-    - DOES NOT WORK PROPERLY ON RETINA SCREENS, or shorter videos
+        
+        - rewrite in c++ more optimized opencv
+        
+        - get it working with short videos
+        
+        - DOES NOT WORK PROPERLY ON RETINA SCREENS, or shorter videos
     
 
 #### dependencies
